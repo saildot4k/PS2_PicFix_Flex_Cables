@@ -10,7 +10,7 @@ Waiting for V9 PCB to design one
 
 ## V10 Flex
 
-Waiting for V9 PCB to design one
+Waiting for V10 PCB to design one
 
 
 ## V12 Flex
