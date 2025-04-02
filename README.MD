@@ -19,6 +19,10 @@ If your PS2 is the following model with the circutry in red, you DO NOT NEED THI
 
 ![Sony Laser Fix](/assets/70k%20laser%20fix.jpg)
 
+## Parts and Programming tutorial
+
+Info to come.....
+
 
 ## V9 Flex
 
