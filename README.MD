@@ -13,7 +13,7 @@ I (R3Z3N) simply applied some artistic touch to make this an easier install that
 
 Thanks to [Atheris](https://linktr.ee/atherismods) and [SylverRez](https://github.com/m4x10187) for kicad, electrical and logo help!
 
-#### $ony Laser fix identification
+### $ony Laser fix identification
 
 If your PS2 is the following model with the circutry in red, you DO NOT NEED THIS FIX!
 
