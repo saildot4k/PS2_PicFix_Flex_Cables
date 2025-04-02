@@ -11,13 +11,14 @@ Invented by the Matrix Team, they designed a cheap and easy fix for V9-V12 PS2s,
 
 I (R3Z3N) simply applied some artistic touch to make this an easier install that will look profession with decent soldering skills. CLEAN YOUR FLUX BOYS!
 
-Thanks to [Atheris](https://linktr.ee/atherismods) and [SylverRez](https://github.com/m4x10187) for kicad, electrical and logo help!
+Thanks to [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help!
 
 ### $ony Laser fix identification
 
 If your PS2 is the following model with the circutry in red, you DO NOT NEED THIS FIX!
 
 ![Sony Laser Fix](/assets/70k%20laser%20fix.jpg)
+
 
 ## V9 Flex
 
