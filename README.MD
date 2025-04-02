@@ -19,6 +19,6 @@ Waiting for V10 PCB to design one
 
 [V12 Flex Gerbers](/SCHP-7000XX/SCHP-7000XX%20PicFix%20Flex%20GERBERS.zip)
 
-![V12 Flex Front](/SCHP-7000XX/PicFix_V5_Thin.png){ width="400" }
+![V12 Flex Front](/SCHP-7000XX/PicFix_V5_Thin.png =400x)
 
-![V12 Flex Front](/SCHP-7000XX/PicFix_V5_Thin%20back.png){ width="400" }
+![V12 Flex Front](/SCHP-7000XX/PicFix_V5_Thin%20back.png =400x)
