@@ -1,10 +1,23 @@
 # Flex Cables for V9-V12 PS2
 
-Invented by the Matrix Team, documented [here](https://github.com/MechaResearch/MechaPwn/blob/master/docs/PICfix.md) and refined by HaloSlayer255 and [ModzvillUSA](https://modzvilleusa.com/products/ps2-matrix-picfix-for-v9-v12-ps2-consoles)
+
+Why? In an attempt to curb piracy, $ony designed the laser to fail and burn up. Sadly this [backfired](https://www.gamesindustry.biz/sony-reaches-settlement-in-ps2-disc-read-error-case#:~:text=Now%20a%20settlement%20has%20been,their%20console%20%2D%20at%20SCEA's%20discretion.)
+
+![Mermaid Chart](/assets/whylaserburns_mermaid.jpg)
+Courtesy of [El Isra](https://github.com/israpps)
+
+Invented by the Matrix Team, they designed a cheap and easy fix for V9-V12 PS2s, documented [here](https://github.com/MechaResearch/MechaPwn/blob/master/docs/PICfix.md) and refined by HaloSlayer255 and [ModzvillUSA](https://modzvilleusa.com/products/ps2-matrix-picfix-for-v9-v12-ps2-consoles)
+
 
 I (R3Z3N) simply applied some artistic touch to make this an easier install that will look profession with decent soldering skills. CLEAN YOUR FLUX BOYS!
 
 Thanks to [Atheris](https://linktr.ee/atherismods) and [SylverRez](https://github.com/m4x10187) for kicad, electrical and logo help!
+
+#### $ony Laser fix identification
+
+If your PS2 is the following model with the circutry in red, you DO NOT NEED THIS FIX!
+
+![Sony Laser Fix](/assets/70k%20laser%20fix.jpg)
 
 ## V9 Flex
 
