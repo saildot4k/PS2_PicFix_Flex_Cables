@@ -9,7 +9,7 @@ Courtesy of [El Isra](https://github.com/israpps)
 Invented by the Matrix Team, they designed a cheap and easy fix for V9-V12 PS2s, documented [here](https://github.com/MechaResearch/MechaPwn/blob/master/docs/PICfix.md) and refined by HaloSlayer255 and [ModzvillUSA](https://modzvilleusa.com/products/ps2-matrix-picfix-for-v9-v12-ps2-consoles)
 
 
-I (R3Z3N) simply applied some artistic touch to make this an easier install that will look profession with decent soldering skills. CLEAN YOUR FLUX BOYS!
+I (R3Z3N) simply applied some artistic touch to make this an easier install that will look professional with decent soldering skills. CLEAN YOUR FLUX BOYS!
 
 Thanks to [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help!
 
@@ -18,6 +18,7 @@ Thanks to [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.c
 If your PS2 is the following model with the circutry in red, you DO NOT NEED THIS FIX!
 
 ![Sony Laser Fix](/assets/70k%20laser%20fix.jpg)
+
 
 ## Parts and Programming tutorial
 
