@@ -18,6 +18,13 @@ If your PS2 is the following model with the circutry in red, you DO NOT NEED THI
 
 ![Sony Laser Fix](/assets/70k%20laser%20fix.jpg)
 
+### Mechacon Crash Tester App
+
+El Isra made a PS2 app which identifies if your console is safe, unsafe or uknown. Run the ELF on your PS2 with your desired exploit/elf launcher of choice:
+
+[Mechacon Crash Tester](https://github.com/israpps/MechaconCrashTestAPP)
+
+![Mechacon Crash Tester](https://www.psx-place.com/attachments/_e3271012_20240808144428-png.43804/)
 
 ## Appreciation and Thanks to:
 [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help!
