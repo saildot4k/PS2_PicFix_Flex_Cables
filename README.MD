@@ -31,7 +31,7 @@ If your PS2 is the following model with the circutry in red, you DO NOT NEED THI
 
 2.2K Ohm 0602 Resistor
 
-PIC 12F508 IC SOID-8 Package
+[PIC 12F508 IC SOIC-8 Package](https://www.mouser.com/ProductDetail/Microchip-Technology/PIC12F508-I-SN?qs=mcPJWgAPNrfwaHSjpX90MQ%3D%3D)
 
 Pic 12F508 files, choose based on your programmer:
 
