@@ -22,7 +22,19 @@ If your PS2 is the following model with the circutry in red, you DO NOT NEED THI
 
 ## Parts and Programming tutorial
 
-Info to come.....
+100nF 0602 Capacitor
+
+1.5K Ohm 0602 Resistor
+
+2.2K Ohm 0602 Resistor
+
+PIC 12F508 IC SOID-8 Package
+
+Pic 12F508 files, choose based on your programmer:
+
+[MFIX_H8.HEX](/assets/MFIX_H8.HEX)
+
+[MFIX_H16.HEX](/assets/MFIX_H16.HEX)
 
 
 ## V9 Flex
@@ -36,8 +48,8 @@ Waiting for V10 PCB to design one
 
 ## V12 Flex
 
-[V12 Flex Gerbers](/SCPH-7000XX/SCPH-7000XX%20PicFix%20Flex%20GERBERS.zip)
+[V12 Flex Gerbers](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20GERBERS.zip)
 
-![V12 Flex Front](/SCPH-7000XX/PicFix_V5_Thin.png)
+![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin.png)
 
-![V12 Flex Front](/SCPH-7000XX/PicFix_V5_Thin%20back.png)
+![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin%20back.png)
