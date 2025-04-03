@@ -19,7 +19,8 @@ If your PS2 is the following model with the circutry in red, you DO NOT NEED THI
 ![Sony Laser Fix](/assets/70k%20laser%20fix.jpg)
 
 
-## Thanks to [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help!
+## Appreciation and Thanks to:
+[Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help!
 
 
 ## Parts and Programming tutorial
