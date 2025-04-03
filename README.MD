@@ -23,7 +23,7 @@ If your PS2 is the following model with the circutry in red, you DO NOT NEED THI
 [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help!
 
 
-## Parts and Programming tutorial
+## Parts Needed
 
 [100nF 0603 Capacitor](https://www.mouser.com/c/passive-components/capacitors/ceramic-capacitors/mlccs-multilayer-ceramic-capacitors/multilayer-ceramic-capacitors-mlcc-smd-smt/?capacitance=0.1%20uF&case%20code%20-%20in=0603&length=1.6%20mm%20%280.063%20in%29&termination=Standard&tolerance=10%20%25&voltage%20rating%20dc=25%20VDC&width=0.8%20mm%20%280.031%20in%29&instock=y&sort=pricing)
 
@@ -38,6 +38,10 @@ Pic 12F508 files, choose based on your programmer:
 [MFIX_H8.HEX](/assets/MFIX_H8.HEX)
 
 [MFIX_H16.HEX](/assets/MFIX_H16.HEX)
+
+## Programming PIC12F508
+
+Tutorial incoming....sorry. If you'd like to help please reach out!
 
 
 ## V9 Flex
