@@ -26,6 +26,10 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 
 ![Mechacon Crash Tester](https://www.psx-place.com/attachments/_e3271012_20240808144428-png.43804/)
 
+### Matrix PicFix Schematic
+
+![PicFix Schematic](assets/PicFix_Schematic.pdf)
+
 ## Appreciation and Thanks to:
 [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help!
 
@@ -65,7 +69,7 @@ Waiting for V10 PCB to design one
 
 [V12 Flex Gerbers](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20GERBERS.zip)
 
-[Bill of Materials](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20BOM.csv)
+[BOM File](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20BOM.csv)
 
 ![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin.png)
 
