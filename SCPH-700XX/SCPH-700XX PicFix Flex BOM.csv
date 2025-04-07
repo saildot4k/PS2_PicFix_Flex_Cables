@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOIC-8_3.9x4.9mm_P1.27mm";1;"PIC12F508-xSN";;;
+2;"R2";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"2.2K";;;
+3;"J1";"TestPoint_THTPad_D1.5mm_Drill0.7mm";1;"TestPoint";;;
+4;"GND1";"TestPoint_Pad_1.5x1.5mm_NO_SILK";1;"TestPoint_Alt";;;
+5;"C1";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";1;"100n";;;
+6;"5V1,K1";"TestPoint_THTPad_D1.0mm_Drill0.5mm";2;"TestPoint";;;
+7;"R1";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"1.5K";;;

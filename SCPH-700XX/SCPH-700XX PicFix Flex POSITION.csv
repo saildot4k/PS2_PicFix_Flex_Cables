@@ -1,0 +1,5 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100n","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",79.800000,-96.187500,-90.000000,top
+"R1","1.5K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",82.500000,-103.812500,90.000000,top
+"R2","2.2K","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",83.975000,-103.812500,90.000000,top
+"U1","PIC12F508-xSN","SOIC-8_3.9x4.9mm_P1.27mm",83.270000,-98.250000,-90.000000,top
