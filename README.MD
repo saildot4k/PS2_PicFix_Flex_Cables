@@ -65,6 +65,8 @@ Waiting for V10 PCB to design one
 
 [V12 Flex Gerbers](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20GERBERS.zip)
 
+[Bill of Materials](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20BOM.csv)
+
 ![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin.png)
 
 ![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin%20back.png)
