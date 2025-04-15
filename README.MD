@@ -44,11 +44,8 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 
 [PIC 12F508 IC SOIC-8 Package](https://www.mouser.com/ProductDetail/Microchip-Technology/PIC12F508-I-SN?qs=mcPJWgAPNrfwaHSjpX90MQ%3D%3D)
 
-Pic 12F508 files, choose based on your programmer:
-
-[MFIX_H8.HEX](/assets/MFIX_H8.HEX)
-
-[MFIX_H16.HEX](/assets/MFIX_H16.HEX)
+## Files
+Download the Gerbers, BOM and Hex Files [here.](https://github.com/saildot4k/PS2_PicFix_Flex_Cables/archive/refs/heads/main.zip)
 
 ## Programming PIC12F508
 
@@ -62,15 +59,11 @@ Waiting for V9 PCB to design one
 
 ## V10 Flex
 
-[V10 Flex Gerbers](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20GERBERS.kicad_pcb.zip)
-
-[BOM File](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20BOM.csv)
-
 ![GH-026 Flex Front](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex.png)
 
 ![GH-026 Flex Rear](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20REAR.png)
 
-The below PCB is for experts only, as soldering to the DSP may be quite difficult:
+The below Flex PCB is for experts only, as soldering to the DSP may be quite difficult:
 
 ![GH-026 Flex Rear](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20REAR%20EXPERT%20SOLDERING.png)
 
@@ -78,10 +71,6 @@ The below PCB is for experts only, as soldering to the DSP may be quite difficul
 
 
 ## V12 Flex
-
-[V12 Flex Gerbers](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20GERBERS.zip)
-
-[BOM File](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20BOM.csv)
 
 ![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin.png)
 
