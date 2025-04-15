@@ -30,6 +30,7 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 
 [PicFix Schematic](assets/PicFix_Schematic.pdf)
 
+
 ## Appreciation and Thanks to:
 [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help! [ModzvilleUSA](https://modzvilleusa.com/products/ps2-matrix-picfix-for-v9-v12-ps2-consoles) & HaloSlayer255 for the writeups and schematic.
 
@@ -45,19 +46,16 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 [PIC 12F508 IC SOIC-8 Package](https://www.mouser.com/ProductDetail/Microchip-Technology/PIC12F508-I-SN?qs=mcPJWgAPNrfwaHSjpX90MQ%3D%3D)
 
 ## Files
-Download the Gerbers, BOM and Hex Files [here.](https://github.com/saildot4k/PS2_PicFix_Flex_Cables/archive/refs/heads/main.zip)
-
 I would ask that if you are printing your own and satisfied with the product that you would consider [donating here @ Ko-Fi](https://ko-fi.com/r3z3n) to help further more projects. I feel $1 per pcb printed is fair, but do as you wish! Feedback is appreciated!
+
+Download the Gerbers, BOM and Hex Files [here.](https://github.com/saildot4k/PS2_PicFix_Flex_Cables/archive/refs/heads/main.zip)
 
 ## Programming PIC12F508
 
 Tutorial incoming....sorry. If you'd like to help please reach out!
 
-
 ## V9 Flex
-
 Waiting for V9 PCB to design one
-
 
 ## V10 Flex
 
@@ -70,7 +68,6 @@ The below Flex PCB is for experts only, as soldering to the DSP may be quite dif
 ![GH-026 Flex Rear](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20REAR%20EXPERT%20SOLDERING.png)
 
 ![GH-026 Flex Front](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20EXPERT%20SOLDERING.png)
-
 
 ## V12 Flex
 
