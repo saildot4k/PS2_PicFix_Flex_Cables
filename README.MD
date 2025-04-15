@@ -62,7 +62,19 @@ Waiting for V9 PCB to design one
 
 ## V10 Flex
 
-Waiting for V10 PCB to design one
+[V10 Flex Gerbers](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20GERBERS.kicad_pcb.zip)
+
+[BOM File](/SCPH-700XX/SCPH-700XX%20PicFix%20Flex%20BOM.csv)
+
+![GH-026 Flex Front](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex.png)
+
+![GH-026 Flex Rear](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20REAR.png)
+
+The below PCB is for experts only, as soldering to the DSP may be quite difficult:
+
+![GH-026 Flex Rear](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20REAR%20EXPERT%20SOLDERING.png)
+
+![GH-026 Flex Front](/SCPH-500XX/GH-026/V10%20SCPH-500XX%20GH-026%20PicFix%20Flex%20EXPERT%20SOLDERING.png)
 
 
 ## V12 Flex
@@ -73,4 +85,4 @@ Waiting for V10 PCB to design one
 
 ![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin.png)
 
-![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin%20back.png)
+![V12 Flex Back](/SCPH-700XX/PicFix_V5_Thin%20back.png)
