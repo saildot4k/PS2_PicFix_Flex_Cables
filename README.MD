@@ -30,10 +30,8 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 
 [PicFix Schematic](assets/PicFix_Schematic.pdf)
 
-
 ## Appreciation and Thanks to:
 [Atheris](https://linktr.ee/atherismods), [SylverRez](https://github.com/m4x10187) and [PCM720](https://github.com/pcm720) for kicad, electrical and logo help! [ModzvilleUSA](https://modzvilleusa.com/products/ps2-matrix-picfix-for-v9-v12-ps2-consoles) & HaloSlayer255 for the writeups and schematic.
-
 
 ## Parts Needed
 
