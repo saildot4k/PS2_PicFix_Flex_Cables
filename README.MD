@@ -47,6 +47,8 @@ El Isra made a PS2 app which identifies if your console is safe, unsafe or uknow
 ## Files
 Download the Gerbers, BOM and Hex Files [here.](https://github.com/saildot4k/PS2_PicFix_Flex_Cables/archive/refs/heads/main.zip)
 
+I would ask that if you are printing your own and satisfied with the product that you would consider [donating here @ Ko-Fi](https://ko-fi.com/r3z3n) to help further more projects. I feel $1 per pcb printed is fair, but do as you wish! Feedback is appreciated!
+
 ## Programming PIC12F508
 
 Tutorial incoming....sorry. If you'd like to help please reach out!
