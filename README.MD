@@ -72,3 +72,8 @@ The below Flex PCB is for experts only, as soldering to the DSP may be quite dif
 ![V12 Flex Front](/SCPH-700XX/PicFix_V5_Thin.png)
 
 ![V12 Flex Back](/SCPH-700XX/PicFix_V5_Thin%20back.png)
+
+----
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
+
+©R3Z3N/Saildot4k 2025
